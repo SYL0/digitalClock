@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("./img/ea3fd3102ccf575e3c33954f73eab78d.jpg") center/cover
+    no-repeat;
+  overflow: hidden;
+}
+
+#clock {
+  font-family: "Orbitron", sans-serif;
+  font-size: 5rem;
+  color: #e8f6ff;
+  text-shadow: 1px 1px 20px #117afa;
+}
